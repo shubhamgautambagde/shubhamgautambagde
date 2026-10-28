@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="150" alt="Shubham Bagde">
+<img src="profile.jpg" width="150" alt="Shubham Bagde">
 
 # Hi, I'm Shubham Bagde 👋
 
